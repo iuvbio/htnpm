@@ -1,0 +1,22 @@
+{
+  "name": "htnpm",
+  "version": "1.0.0",
+  "description": "workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iuvbio/htnpm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "iuvbio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iuvbio/htnpm/issues"
+  },
+  "homepage": "https://github.com/iuvbio/htnpm#readme"
+}
